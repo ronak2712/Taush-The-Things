@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/Images/Adds/ola.gif</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+  <AlternateText>  
+  </AlternateText>
+  <Keyword> ola</Keyword>
+  <Impressions>10</Impressions>
+  <Height>400</Height>
+  <Width>270</Width>
+  </Ad>
+</Advertisements>
